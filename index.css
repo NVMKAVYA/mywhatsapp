@@ -185,3 +185,12 @@
     line-height: 20px;
     color: #929fa6;
 }
+.msgBubble{
+	float: right;
+    margin-right: 40px;
+    background-color: #50af52;
+    width: 24px;
+    border-radius: 60px;
+    padding: 0px 7px;
+    color: #fff;
+}
